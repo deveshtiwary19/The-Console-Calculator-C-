@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1577477160 source:f:\new folder\my calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577477162 source:e:\c basic(udemy course 1)\my calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581054687 source:c:\users\anchit chandra\desktop\c basic(udemy course 1)\my calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1581056736 source:d:\c basic(udemy course 1)\my calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
